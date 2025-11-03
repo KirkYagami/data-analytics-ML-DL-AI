@@ -8,3 +8,7 @@
 
 ## Python Data STructures
     1. https://github.com/TheAlgorithms/Python/tree/master/data_structures
+
+## GenAI
+### Transformers
+    1. https://www.krupadave.com/articles/everything-about-transformers?x=v3
